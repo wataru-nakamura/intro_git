@@ -3,3 +3,4 @@ git練習用
 変更２
 変更３
 追加１
+git status
